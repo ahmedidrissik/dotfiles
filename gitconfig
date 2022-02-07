@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ahmedidrissik@gmail.com
+	name = ahmed idrissi kaitouni
